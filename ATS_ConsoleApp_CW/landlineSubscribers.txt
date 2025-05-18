@@ -1,0 +1,15 @@
+Victor Hugo,32,hugovictor@mail.com,3,A-22,Lviv,
+Anna Kovalenko,45,kovalenko@mail.com,1,B-12,Kyiv,
+Dmytro Petrenko,50,dpetrenko@mail.com,3,C-34,Kharkiv,
+Maria Ivanova,60,mivanova@mail.com,5,D-10,Odessa,
+Oleksandr Sidorov,28,osidorov@mail.com,1,E-25,Dnipro
+Nina Shevchenko,39,nshevchenko@mail.com,3,F-19,Zaporizhzhia,
+Vitalii Bondarenko,48,vbondarenko@mail.com,1,G-42,Chernihiv,
+Yuliia Tkachenko,52,ytkachenko@mail.com,3,H-11,Poltava,
+Andrii Koval,33,akoval@mail.com,5,I-37,Vinnytsia,
+Ihor Melnyk,57,imelnyk@mail.com,1,J-20,Cherkasy
+Tetiana Lysenko,62,tlysenko@mail.com,3,K-15,Rivne,
+Volodymyr Hrytsenko,41,vhrytsenko@mail.com,3,L-30,Ternopil,
+Olha Fedorova,36,ofedorova@mail.com,5,M-14,Ivano-Frankivsk,
+Serhii Pavlenko,55,spavlenko@mail.com,1,N-21,Lutsk,
+Kateryna Rozhko,29,krozhko@mail.com,5,O-8,Uzhhorod

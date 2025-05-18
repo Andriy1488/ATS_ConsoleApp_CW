@@ -1,0 +1,15 @@
+Taras Shevchenko, 40,shevchenko@mail.com,2,099-111-2222,Kyiv,
+Lesya Ukrainka, 35,ukrainka@mail.com,0,098-333-4444,Lviv,
+Ivan Franko, 50,franko@mail.com,4,097-555-6666,Ivano-Frankivsk,
+Mykola Khvylovy, 45,khvylovy@mail.com,4,096-777-8888,Kharkiv,
+Olga Kobylianska, 39,kobylianska@mail.com,0,095-999-0000,Chernivtsi      
+Vasyl Symonenko, 42,symonenko@mail.com,2,099-222-3333,Cherkasy,
+Marko Vovchok, 37,vovchok@mail.com,2,098-444-5555,Poltava,
+Pavlo Tychyna, 48,tychyna@mail.com,0,097-666-7777,Sumy,
+Ostap Vyshnia, 53,vyshnia@mail.com,0,096-888-9999,Zhytomyr,
+Mykhailo Stelmakh, 30,stelmakh@mail.com,4,095-000-1111,Vinnytsia
+Hryhorii Skovoroda, 60,skovoroda@mail.com,2,099-333-4444,Pereyaslav,
+Volodymyr Sosyura, 44,sosyura@mail.com,0,098-555-6666,Donetsk,
+Maksym Rylsky, 55,rylsky@mail.com,4,097-777-8888,Rivne,
+Borys Oliynyk, 47,oliynyk@mail.com,2,096-999-0000,Dnipropetrovsk,
+Oleksandr Dovzhenko, 38,dovzhenko@mail.com,4,095-111-2222,Zaporizhzhia

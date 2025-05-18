@@ -1,0 +1,5 @@
+﻿  ATS_ConsoleApp_CW.cpp
+C:\Users\azioc\OneDrive\Рабочий стол\Програмізм\Cpp\ATS_ConsoleApp_CW\ATS_ConsoleApp_CW\ATS.h(32,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ATS_ConsoleApp_CW.cpp')
+  
+  ATS_ConsoleApp_CW.vcxproj -> C:\Users\azioc\OneDrive\Рабочий стол\Програмізм\Cpp\ATS_ConsoleApp_CW\x64\Debug\ATS_ConsoleApp_CW.exe

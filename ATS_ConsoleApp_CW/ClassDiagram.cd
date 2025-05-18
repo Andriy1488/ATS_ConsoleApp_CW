@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="IDisplay">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IDisplay.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Subscription">
+    <Position X="13.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QgABBAAAAIAAAAAIALAAAVAAARAFAABAAAAEAAgAAgA=</HashCode>
+      <FileName>Subscription.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATS">
+    <Position X="11.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gkIAAAAQAAAAAAAAIDIAAAASATAFkADACAAEEAABAgI=</HashCode>
+      <FileName>ATS.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CityPhoneNetwork">
+    <Position X="9.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAgAAAAAAJACAAFAQAAAAAAEAAAAAAAAAAAAAAEg=</HashCode>
+      <FileName>CityPhoneNetwork.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LandlineSubscriber">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAADAAAAAAAAIEAAAAgCAAAgAAAgA=</HashCode>
+      <FileName>LandlineSubscriber.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MobileSubscriber">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACACAgEAAAABAACAAAAAIEAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>MobileSubscriber.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Subscriber">
+    <Position X="7.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AoAAgEgAAAAAQAigACAAAAAQAAAEAABEAAAEEAAAAgA=</HashCode>
+      <FileName>Subscriber.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="SortingCriteria">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAIAAAIAAAAAAAAAEA=</HashCode>
+      <FileName>ATS.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
